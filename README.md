@@ -51,7 +51,7 @@ pkg install yarn
 git clone (copy and paste your forked repo link not mine to save changes your changes) 
 ```
 ```
-cd Venom-2
+cd LIEBE
 ```
 ```
 yarn install
