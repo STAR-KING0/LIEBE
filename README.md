@@ -10,7 +10,7 @@
 ### If you want to deploy somewhere else, upload your creds.json in session folder after getting pair code on replit. 
 
 ### 1. <a href="https://github.com/STAR-KING0/LIEBE/fork"><img src="https://img.shields.io/badge/FORK-blue" alt="Click Here to fork Liebe" width="70"></a>
-### 2. <a href="U"><img src="https://img.shields.io/badge/PAIR_CODE-red" alt="https://pair-id-72c52622bcee.herokuapp.com/pair" width="90"></a>
+### 2. <a href="https://pair-id-72c52622bcee.herokuapp.com/pair"><img src="https://img.shields.io/badge/PAIR_CODE-red" alt="https://pair-id-72c52622bcee.herokuapp.com/pair" width="90"></a>
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 # Termux Deployment
