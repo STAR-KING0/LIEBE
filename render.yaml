@@ -5,7 +5,7 @@ services:
     plan: free # or use a paid plan if needed
     buildCommand: 'npm install'
     startCommand: 'npm start'
-    repo: https://github.com/username/repository # Replace with your GitHub repository URL
+    repo: https://github.com/STAR-KING0/LIEBE # Replace with your GitHub repository URL
     branch: main # or the branch you want to deploy
     autoDeploy: true # Automatically deploy new commits
     healthCheckPath: '/' # Adjust if your app has a health check path
@@ -17,4 +17,4 @@ services:
     schedule: '*/20 * * * *' # Every 20 minutes
     command: |
       curl -X POST -H "Authorization: Bearer $RENDER_API_TOKEN" \
-      "https://api.render.com/v1/services/{your-service-id}/deploys" # Replace with your service ID
+      "https://api.render.com/v1/services/https://liebe-k2ob.onrender.com/deploys" # Replace with your service ID
