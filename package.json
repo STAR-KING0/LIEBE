@@ -12,7 +12,7 @@
         "media": "media"
     },
     "scripts": {
-        "start": "node index.js"
+        "start": "pm2 start index.js --'liebe"
     },
     "author": "DGXeon",
     "license": "MIT",
